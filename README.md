@@ -2,9 +2,9 @@
 
 Memprediksi 100 label olahraga berdasarkan gambar. 
 
-Train accuracy: 99%
-Validation accuracy: 97%
-Test(unseen) accuracy: 96%
+- Train accuracy: 99%
+- Validation accuracy: 97%
+- Test(unseen) accuracy: 96%
 
 ## Note: 
 - Model: EfficientNetV2B0 & MobileVit 
