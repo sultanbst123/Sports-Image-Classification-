@@ -7,6 +7,12 @@ Memprediksi 100 label olahraga berdasarkan gambar.
 - Test(unseen) accuracy: 96%
 
 ## Note: 
+Saya mengunakan 2 jenis model: 
+### MobileVit
+<p align="center">
+ <img src="https://github.com/sultanbst123/EfficientNetV2-with-TPU/blob/main/images.png"><i> EfficientNet </i>
+</p>
+
 - Model: EfficientNetV2B0 & MobileVit 
 - weight: imagenet 
 - optimizer: AdaBelief
